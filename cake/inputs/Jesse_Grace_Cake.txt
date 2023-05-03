@@ -1,0 +1,10 @@
+Name	Taro_Sponge_Taro_Puree_Coconut_Buttercream	Matcha_Sponge_Strawberry_Jam_Matcha_Buttercream	Key_Lime_Berry_Cream_Cheese_Frosting	Earl_Grey_Sponge_Blueberry_Jam_Vanilla_Buttercream	Vanilla_Sponge_Strawberry_Jam_Vanilla_Buttercream	Dark_Chocolate_Caramelized_Hazelnuts_Chocolate_Buttercream	Lemon_Sponge_Blueberry_Jam_Vanilla_Buttercream	Pistachio_Sponge_White_Chocolate_Buttercream	Couple_ID		
+Allen	7	6	4	6.5	5	9	5	8.5	AK		
+Kathy	8	3	4	7	6.5	7.75	5	6	AK		
+Mike	7.8	3	5	8	6	6	4	7	ME		
+Estella	7.8	6.9	7.1	8.5	7.9	7	8	6	ME	EarlGray-elevated	Vanilla-Basic
+Jesse	9.7	6.2	6.4	9	8.5	9.3	6.4	8.2	JG		
+Grace	9	6.8	8.7	8.5	8	8.9	6.6	9.1	JG		
+Richard	8	5.5	5	8.5	6.5	6.5	8.5	9.5	RK		
+Kevin	7.25	6.5	7.5	8	6.5	6	7	5	RK		
+Order	7	5	4	1	6	8	3	2	NA		
